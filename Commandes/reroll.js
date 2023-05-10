@@ -1,4 +1,3 @@
-const ms = require('ms');
 const oki = ":ballot_box_with_check:"
 const nope = ":regional_indicator_x:";
 exports.run = async (client, message, args) => {

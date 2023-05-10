@@ -1,12 +1,9 @@
 const Discord = require('discord.js');
-const bot = new Discord.Client();
 const ms = require("ms");
 const oki = ":white_check_mark:"
 const nope = ":x:";
-const lock = ":closed_lock_with_key:";
-const unlock = ":unlock:";
 
-exports.run = async (client, message, [time, reason]) => {
+module.exports.run = async (client, message, [time, reason]) => {
   if (!client.lockit) { client.lockit = []; }
   let validUnlocks = ["release", "unlock", "u"];
   if (!time) { return message.reply(`【${nope}】Vous n'avez pas spécifié de temps.`); }
