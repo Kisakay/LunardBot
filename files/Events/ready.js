@@ -4,13 +4,7 @@ module.exports = (client) => {
         `?help | ${client.guilds.cache.size} Serveur(s) | ${client.users.cache.size} Utilisateur(s)`,
         `Lunard Reborn | ?help`
     ]
-    let statuses2 = [
-        `STREAMING`,
-        `PLAYING`,
-        `WATCHING`,
-        `LISTENING`
-    ]
-
+    let statuses2 = [`STREAMING`,`PLAYING`,`WATCHING`,`LISTENING`]
     setInterval(function () {
         let status = statuses[Math.floor(Math.random() * statuses.length)];
         let status2 = statuses2[Math.floor(Math.random() * statuses2.length)];
