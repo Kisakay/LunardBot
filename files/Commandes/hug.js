@@ -8,7 +8,6 @@ module.exports.run = (client, message, args) => {
         'https://cdn.discordapp.com/attachments/716491138277703691/717819521876099162/hug1.gif',
         'https://cdn.discordapp.com/attachments/716491138277703691/717819675076984842/hug2.gif',
         'https://cdn.discordapp.com/attachments/716491138277703691/717819860104511578/hug3.gif'
-
     ];
 
     const embed = new Discord.MessageEmbed()
