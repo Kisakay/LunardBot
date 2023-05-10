@@ -1,18 +1,20 @@
 # LunardBot
 Lunard Bot
 
+# FR :
+Ce bot a été créé en 2020 avec la version précoce de Discord.JS v12. Bien qu'il soit encore utilisable, il nécessite quelques ajustements. Vous pouvez utiliser le code source pour votre propre bot, à condition de créditer "Kisakay" dans votre bot.
 
-A crazy old bot (discord.js v12 found in my disk)
-Is my bot created in 2020 when Discord.JS is on early v12
+Cependant, veuillez noter que le code source n'est pas optimal car il a été créé en 2019/2020 lorsque mes compétences en JavaScript étaient limitées. Si vous recherchez un bot de qualité supérieure, je vous recommande d'attendre le bot iHorizon.
 
-The bot still usuable but need some rework.
-You can use source code for you own bot, just let the credit of "Kisakay" in your bot
+# EN :
+This bot was created in 2020 using the early version of Discord.JS v12. While it is still usable, it requires some rework. You can use the source code for your own bot, but please credit "Kisakay" in your bot.
 
-The source code of this bot are $hit in fact. 
-Wait for iHorizon if you want a very good bot.
+However, please note that the source code is not optimal as it was created in 2019/2020 when my JavaScript skills were limited. If you are looking for a higher quality bot, I recommend waiting for the iHorizon bot.
 
-This source code have some $kid. Bc i was made this on 2019/2020 (My JavaScript Skills are trash on this Date)
 Other thing :
-[This discord bot are soon OpenSource with Creative Commons Liscence](https://Discord.iHorizon.me)
-[Discord Support Server for Lunard](https://discord.gg/Ubsy7dxNXj)
+
+[Is it true that iHorizon will soon be open source with a Creative Commons license? (yes)](http://discord.ihorizon.me)
+
+[Discord Support Server for Lunard](https://discord.gg/Ubsy7dxNXj) 
+
 [Discord Support Server for iHorizon](https://discord.gg/Ubsy7dxNXj)
