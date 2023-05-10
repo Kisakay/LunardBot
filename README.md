@@ -18,3 +18,8 @@ Other thing :
 [Discord Support Server for Lunard](https://discord.gg/Ubsy7dxNXj) 
 
 [Discord Support Server for iHorizon](https://discord.gg/Ubsy7dxNXj)
+
+Please be aware that there may be some skidded scripts in this repository. 
+Yes, 
+I admit that the code was not entirely original, as it was created in 2019 when I was first learning JavaScript. 
+I apologize for any issues this may cause.
