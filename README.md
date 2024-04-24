@@ -1,15 +1,15 @@
-## Deprecated Repo! Use iHorizon Instead!
+# Deprecated Repo! Use iHorizon Instead!
 - https://github.com/ihrz/ihrz
 
 ## LunardBot
 Lunard Bot
 
-# FR :
+### FR :
 Ce bot a été créé en 2020 avec la version précoce de Discord.JS v12. Bien qu'il soit encore utilisable, il nécessite quelques ajustements. Vous pouvez utiliser le code source pour votre propre bot, à condition de créditer "Kisakay" dans votre bot.
 
 Cependant, veuillez noter que le code source n'est pas optimal car il a été créé en 2019/2020 lorsque mes compétences en JavaScript étaient limitées. Si vous recherchez un bot de qualité supérieure, je vous recommande d'attendre le bot iHorizon.
 
-# EN :
+### EN :
 This bot was created in 2020 using the early version of Discord.JS v12. While it is still usable, it requires some rework. You can use the source code for your own bot, but please credit "Kisakay" in your bot.
 
 However, please note that the source code is not optimal as it was created in 2019/2020 when my JavaScript skills were limited. If you are looking for a higher quality bot, I recommend waiting for the iHorizon bot.
