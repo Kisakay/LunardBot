@@ -1,4 +1,4 @@
-## Deprecied Repo! Use iHorizon Instead!
+## Deprecated Repo! Use iHorizon Instead!
 - https://github.com/ihrz/ihrz
 
 ## LunardBot
